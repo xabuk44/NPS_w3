@@ -22,3 +22,5 @@ def nps_calculator(scores):
 print(nps_calculator([9, 10]))  # Ctrl + D
 print(nps_calculator([8, 7]))
 print(nps_calculator([5, 1]))
+
+fin
