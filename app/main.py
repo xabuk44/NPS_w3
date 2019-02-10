@@ -1,4 +1,4 @@
-scores = [10, 10, 10]
+scores = [10, 7, 10]
 
 detractors_count = 0
 neutrals_count = 0
