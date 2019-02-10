@@ -1,4 +1,5 @@
-scores = [10, 7, 10]
+def nps_calculator(scores):
+    scores = [10, 7, 10, 5, 9, 3, 8, 9, 10, 7, 10, 5, 9, 3, 8, 9]
 
 detractors_count = 0
 neutrals_count = 0
